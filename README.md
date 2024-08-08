@@ -11,3 +11,5 @@ INSERTIONSORT=https://github.com/gurramsainikhil/DAA-2203A51481/blob/main/Insert
 ASS-1-3(DAA)=https://github.com/gurramsainikhil/DAA-2203A51481/blob/main/week-1-3(daa).c
 
 ASS-2-1(DAA)=https://github.com/gurramsainikhil/DAA-2203A51481/blob/main/WEEK-2-1(DAA).c
+
+binaray search=https://github.com/gurramsainikhil/DAA-2203A51481/blob/main/binaray%20search.c
